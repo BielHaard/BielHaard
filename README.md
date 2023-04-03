@@ -1,62 +1,51 @@
-### Hi there 👋
+## Olá eu me chamo Júlio e sou amante de tecnologia! 👩‍💻
 
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=BielHaard&show_icons=true&theme=cobalt"
+  media="(prefers-color-scheme: cobalt)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=BielHaard&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=BielHaard&show_icons=true" />
+</picture>
 
-**BielHaard/BielHaard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-<div align="center">
-<a href="https://github.com/DevBatista1">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BielHaard&show_icons=true&theme=dracula&include_all_commits
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BielHaard&layout=compact&langs_count=7&theme=dra
-</div>
 <div style="display: inline_block"><br>
-<img align="center" alt="Dev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/ja
-<img align="center" alt="Dev-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/ty
-<img align="center" alt="Dev-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/reac
-<img align="center" alt="Dev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
-<img align="center" alt="Dev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
-</div>
-##
-<div>
-<a href="https://www.youtube.com/channel/UC44Y7HUcjOu200dbBYjSjjQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?s
-<a href="AQUI VAI O LINK DO INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&log
-<a href = "mailto:devbatistacontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoCo
-<a href="AQUI VAI O LINK DO LINKEDIM" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=
-![Snake animation](https://github.com/DevBatista1/DevBatista1/blob/output/github-contribution-grid-snake.svg)
+  <h4>Front-End</h4>
+  <img align="center" alt="Julio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Julio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Julio-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Julio-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Julio-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+
+  
+  
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="">
 </div>
 
-como personalizar o seu perfil no github Readme 2
-Segundo código utilizado no vídeo, código da cobrinha:
-name: Generate Datas
-on:
-schedule: # execute every 12 hours
-- cron: "* */12 * * *"
-workflow_dispatch:
-jobs:
-build:
-name: Jobs to update datas
-runs-on: ubuntu-latest
-steps:
-# Snake Animation
-- uses: Platane/snk@master
-id: snake-gif
-with:
-github_user_name: DevBatista1
-svg_out_path: dist/github-contribution-grid-snake.svg
-- uses: crazy-max/ghaction-github-pages@v2.1.3
-with:
-target_branch: output
-build_dir: dist
-env:
-GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<div style="display: inline_block"><br>
+  <h4>Back-End</h4>
+  <img align="center" alt="Julio-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Julio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Julio-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  
+</div>
+
+<div style="display: inline_block"><br>
+  <h4>Outros/Others</h4>
+  <img align="center" alt="Julio-Kafka" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg">
+  <img align="center" alt="Julio-Docker" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="Julio-Jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg"">
+  
+</div>
+  
+  ##
+ 
+<div> 
+ 
+  <a href="https://www.instagram.com/juliao.garcia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:julio.garcia.profissional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/j%C3%BAlio-gabriel-garcia-588761196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
