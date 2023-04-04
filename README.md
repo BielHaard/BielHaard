@@ -19,13 +19,16 @@ Experiência com desenvolvimento de API'S REST em Python utilizando o framework 
 Já utilizei diferentes tipos de bancos de dados, entre eles o SQLServer, MySQL, PostgreSQL...
 Sou aderente ao Desenvolvimento Ágil, utilizo Jira, Azure Board e participo de Daily's e suas cerimônias...
 Conheço sobre Desenvolvimento de Micro-serviços em Spring com Kafka.
-Outros: Docker, Jenkins, Wildfly e um pouco de servidores em Linux.</h6
+Outros: Docker, Jenkins, Wildfly e um pouco de servidores em Linux.</h6>
+
 <br> 
-<h5 style="border-bottom: 1px solid white;">English 🇬🇧</h5>
+<h5>English 🇬🇧</h5>
 <h6> I've been working with software development for approximately 5 years, although my focus today is on Back-end development, I've already worked as a Full-stack and have some knowledge of javascript and its frameworks (VueJS, Angular 8). I'm currently 27 years old, I'm a technology lover and I've always been enchanted by news in the area and its improvements due to the time they are updated. I have a degree in Systems Analysis and Development, my main focus is the Java Language with its Spring framework (Boot, Data, Web, Security) using abstractions such as JPA and Hibernate. Experience with developing REST APIs in Python using the Fast-API framework. I've used different types of databases, including SQLServer, MySQL, PostgreSQL... I adhere to Agile Development, I use Jira, Azure Board and I participate in Daily's and their ceremonies... I know about Microservices Development in Spring with Kafka. Others: Docker, Jenkins, Wildfly and some servers on Linux.</h6>
 <br>
 
  <br>
+ 
+![Snake animation](https://github.com/BielHaard/BielHaard/blob/output/github-contribution-grid-snake.svg)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BielHaard&theme=dracula)](https://git.io/streak-stats)
 
