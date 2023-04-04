@@ -25,9 +25,9 @@ Outros: Docker, Jenkins, Wildfly e um pouco de servidores em Linux.</h6
 <h6> I've been working with software development for approximately 5 years, although my focus today is on Back-end development, I've already worked as a Full-stack and have some knowledge of javascript and its frameworks (VueJS, Angular 8). I'm currently 27 years old, I'm a technology lover and I've always been enchanted by news in the area and its improvements due to the time they are updated. I have a degree in Systems Analysis and Development, my main focus is the Java Language with its Spring framework (Boot, Data, Web, Security) using abstractions such as JPA and Hibernate. Experience with developing REST APIs in Python using the Fast-API framework. I've used different types of databases, including SQLServer, MySQL, PostgreSQL... I adhere to Agile Development, I use Jira, Azure Board and I participate in Daily's and their ceremonies... I know about Microservices Development in Spring with Kafka. Others: Docker, Jenkins, Wildfly and some servers on Linux.</h6>
 <br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BielHaard&theme=onedark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BielHaard&theme=dracula)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BielHaard&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BielHaard&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block">
    <br>
