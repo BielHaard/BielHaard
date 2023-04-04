@@ -27,7 +27,7 @@ Outros: Docker, Jenkins, Wildfly e um pouco de servidores em Linux.</h6
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BielHaard&theme=onedark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BielHaard&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BielHaard&show_icons=true&theme=onedark)
 
 <div style="display: inline_block">
    <br>
