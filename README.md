@@ -12,18 +12,26 @@
     Olá eu me chamo Júlio e sou amante de tecnologia! 👩‍💻
 <h5>Português 🇧🇷</h5>
 <h6>
-Eu trabalho com desenvolvimento de software há 5 anos aproximadamente, embora meu foco hoje seja em desenvolvimento Back-end eu já atuei como Full-stack e tenho alguns conhecimentos em javascript e seus framework's(VueJS, Angular 8).
-Atualmente eu tenho 27 anos, sou amante de tecnologia e sempre me encantei por novidades da área e suas melhorias decorrente ao tempo em que se atualizam.
-Eu sou formado em Analise e Desenvolvimento de Sistemas, meu foco maior é a Linguagem Java com seu framework Spring(Boot, Data, Web, Security) utilizando abstrações como JPA e Hibernate.
-Experiência com desenvolvimento de API'S REST em Python utilizando o framework Fast-API.
-Já utilizei diferentes tipos de bancos de dados, entre eles o SQLServer, MySQL, PostgreSQL...
-Sou aderente ao Desenvolvimento Ágil, utilizo Jira, Azure Board e participo de Daily's e suas cerimônias...
-Conheço sobre Desenvolvimento de Micro-serviços em Spring com Kafka.
-Outros: Docker, Jenkins, Wildfly e um pouco de servidores em Linux.</h6>
+Formado em Análise e Desenvolvimento de Sistemas pela faculdade Anhanguera Educacional.
+28 anos de idade.
+Amo tecnologia, sempre me encantei pela área e suas melhorias.
+Trabalho com desenvolvimento de software aproximadamente há 4 anos.
+Hoje meu foco está em desenvolvimento Back-end, porém, também atuo como Full-Stack.
+Java com seu framework Spring(Boot, Data, Web, Security) utilizando abstrações como JPA e Hibernate. 
+Também tenho experiência com desenvolvimento de API'S REST em Python utilizando o framework Fast-API.
+</h6>
 
 <br> 
 <h5>English 🇬🇧</h5>
-<h6> I've been working with software development for approximately 5 years, although my focus today is on Back-end development, I've already worked as a Full-stack and have some knowledge of javascript and its frameworks (VueJS, Angular 8). I'm currently 27 years old, I'm a technology lover and I've always been enchanted by news in the area and its improvements due to the time they are updated. I have a degree in Systems Analysis and Development, my main focus is the Java Language with its Spring framework (Boot, Data, Web, Security) using abstractions such as JPA and Hibernate. Experience with developing REST APIs in Python using the Fast-API framework. I've used different types of databases, including SQLServer, MySQL, PostgreSQL... I adhere to Agile Development, I use Jira, Azure Board and I participate in Daily's and their ceremonies... I know about Microservices Development in Spring with Kafka. Others: Docker, Jenkins, Wildfly and some servers on Linux.</h6>
+<h6> 
+  Graduated in Systems Analysis and Development from Anhanguera Educacional College.
+28 years old.
+Passionate about technology, I have always been fascinated by the field and its advancements.
+I have been working in software development for approximately 4 years.
+Currently, my focus is on Back-end development, but I also work as a Full-Stack developer.
+Proficient in Java with its Spring framework (Boot, Data, Web, Security), using abstractions such as JPA and Hibernate.
+I also have experience in REST API development in Python using the FastAPI framework.
+</h6>
 <br>
 
  <br>
