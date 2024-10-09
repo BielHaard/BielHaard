@@ -60,6 +60,7 @@ I also have experience in REST API development in Python using the FastAPI frame
    <img align="center" alt="Julio-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
    <img align="center" alt="Julio-SpringBoot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
    <img align="center" alt="Julio-FastApi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
+   <img align="center" alt="Julio-Quarkus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg">
 </div>
 <div style="display: inline_block">
    <br>
