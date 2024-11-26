@@ -13,9 +13,9 @@
 <h5>Português 🇧🇷</h5>
 <h6>
 Formado em Análise e Desenvolvimento de Sistemas pela faculdade Anhanguera Educacional.
-28 anos de idade.
+29 anos de idade.
 Amo tecnologia, sempre me encantei pela área e suas melhorias.
-Trabalho com desenvolvimento de software aproximadamente há 4 anos.
+Trabalho com desenvolvimento de software aproximadamente há 5 anos.
 Hoje meu foco está em desenvolvimento Back-end, porém, também atuo como Full-Stack.
 Java com seu framework Spring(Boot, Data, Web, Security) utilizando abstrações como JPA e Hibernate. 
 Também tenho experiência com desenvolvimento de API'S REST em Python utilizando o framework Fast-API.
@@ -25,9 +25,9 @@ Também tenho experiência com desenvolvimento de API'S REST em Python utilizand
 <h5>English 🇬🇧</h5>
 <h6> 
   Graduated in Systems Analysis and Development from Anhanguera Educacional College.
-28 years old.
+29 years old.
 Passionate about technology, I have always been fascinated by the field and its advancements.
-I have been working in software development for approximately 4 years.
+I have been working in software development for approximately 5 years.
 Currently, my focus is on Back-end development, but I also work as a Full-Stack developer.
 Proficient in Java with its Spring framework (Boot, Data, Web, Security), using abstractions such as JPA and Hibernate.
 I also have experience in REST API development in Python using the FastAPI framework.
