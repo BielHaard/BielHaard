@@ -2,7 +2,7 @@
   <img src="https://github.com/BielHaard/fotos/blob/main/BB317165-BD1C-41C8-A7BB-904F1A6FAA4B.jpg" width="200"/>
 </div>
 <div  align="center"> 
-  <h4>Contato e Redes Sociais/ Contact and Social Media</h4>
+  <h4>Contato e Redes Sociais / Contact and Social Media</h4>
    <a href="https://www.instagram.com/juliao.garcia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:julio.garcia.profissional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/j%C3%BAlio-gabriel-garcia-588761196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
