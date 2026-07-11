@@ -40,10 +40,9 @@ I also have experience in REST API development in Python using the FastAPI frame
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BielHaard&theme=dracula)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BielHaard&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-stats-extended.vercel.app/api?username=BielHaard&theme=dracula)
 
 <div style="display: inline_block">
-   <br>
    <h4>Front-End</h4>
    <img align="center" alt="Julio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Julio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
