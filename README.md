@@ -12,13 +12,34 @@
     Olá eu me chamo Júlio e sou amante de tecnologia! 👩‍💻
 <h5>Português 🇧🇷</h5>
 <h6>
-Formado em Análise e Desenvolvimento de Sistemas pela faculdade Anhanguera Educacional.
-29 anos de idade.
-Amo tecnologia, sempre me encantei pela área e suas melhorias.
-Trabalho com desenvolvimento de software aproximadamente há 5 anos.
-Hoje meu foco está em desenvolvimento Back-end, porém, também atuo como Full-Stack.
-Java com seu framework Spring(Boot, Data, Web, Security) utilizando abstrações como JPA e Hibernate. 
-Também tenho experiência com desenvolvimento de API'S REST em Python utilizando o framework Fast-API.
+  
+Desenvolvedor de Software Sênior com 5+ anos de experiência em construção de sistemas backend robustos, escaláveis e de alta criticidade para instituições financeiras e corporações de grande porte. Especialista em Java (8 a 21), Spring Boot, Quarkus e arquitetura de microsserviços, com foco em aplicações reguladas por Bacen, B3 e normativas do mercado financeiro.
+
+Principais Conquistas:
+
+  - Referência técnica em projetos estratégicos na Caixa Econômica Federal (SINAC - Investimentos, SISPX - PIX
+
+  Automático)
+
+  - Remodelação completa do login para clientes PJ no Bradesco, gerando maior estabilidade e performance
+
+  - Desenvolvimento de sistemas críticos para Siemens Energy na automação de cálculos para transformadores a seco (Carpole)
+
+Stack Tecnológico:
+
+  - Backend: Java 8-21, Spring Boot, Quarkus, DDD, Arquitetura Hexagonal
+
+  - Banco de Dados: Oracle, SQL Server, PostgreSQL, CosmosDB
+
+  - Infraestrutura: Docker, Kubernetes, Azure DevOps, Jenkins
+
+  - Mensageria: RabbitMQ, Kafka, Redis
+
+  - Frontend: JavaScript, Angular, Vue.js, HTML5/CSS3
+
+Formação:
+
+  - Graduado em Análise e Desenvolvimento de Sistemas (Faculdade Anhanguera) com bolsa integral.
 </h6>
 
 <br> 
@@ -33,10 +54,6 @@ Proficient in Java with its Spring framework (Boot, Data, Web, Security), using 
 I also have experience in REST API development in Python using the FastAPI framework.
 </h6>
 <br>
-
- <br>
- 
-![Snake animation](https://github.com/BielHaard/BielHaard/blob/output/github-contribution-grid-snake.svg)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BielHaard&theme=dracula)](https://git.io/streak-stats)
 
