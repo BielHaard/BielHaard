@@ -78,4 +78,3 @@ I also have experience in REST API development in Python using the FastAPI frame
    <img align="center" alt="Julio-Fedora" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg">
 </div>
 <br>
-
